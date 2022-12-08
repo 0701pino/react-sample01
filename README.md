@@ -1,4 +1,5 @@
-# vite-react-typescript-starter
+# react + typescript + mui v5による sticky footerのサンプル
+
 
 ## version
 
