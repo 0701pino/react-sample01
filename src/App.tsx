@@ -19,11 +19,12 @@ function App() {
         header area
       </Box>
       <Box>
-        <p>react + typescript + mui v5によるstiky footerの実装</p>
+        <p>react + typescript + mui v5によるsticky footerの実装</p>
         <p>コンテンツが少ない場合に画面の下にフッターが表示される</p>
       </Box>
       <Box
         sx={{
+          py: 3,
           textAlign: 'center',
           mt: 'auto',
           backgroundColor: 'lightgray',
